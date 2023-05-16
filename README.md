@@ -43,9 +43,9 @@ subsequently use the dataset to build a model for price prediction.
 
 
 # Contributors
-Hariharan
-Mahmoud
-Marco
+Hariharan<br>
+Mahmoud<br>
+Marco<br>
 Natalia
 
 # Timeline
