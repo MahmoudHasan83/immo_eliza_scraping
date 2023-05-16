@@ -43,10 +43,10 @@ subsequently use the dataset to build a model for price prediction.
 
 
 # Contributors
-Hariharan<br>
 Mahmoud<br>
 Marco<br>
-Natalia
+Natalia<br>
+Hariharan
 
 # Timeline
 - Duration: `4 days`
